@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  font-family: "PT Serif", serif;
+}
+
+ul a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+ul a:hover {
+  color: #252525 !important;
+  background-color: orange !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+ul li:active {
+  color: #252525 !important;
+  background-color: orange !important;
+}
+
+.head-home {
+  margin-top: 10px;
+}
+.main-home {
+  margin-top: 10px;
+  margin-bottom: 25px !important;
+}
+.main-home h3 {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.create-head {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.create-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.book-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.book-body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.author-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.author-body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.details-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.edit-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table {
+  text-align: center;
+}
+
+.btn-close {
+  margin-right: 10px !important;
+}
+
+.icon {
+  color: white !important;
+}
+
+ul li {
+  margin: 5px 5px 5px 5px;
+  font-size: large;
+  text-align: center !important;
+}
+
+.sidebar-main {
+  height: 85vh !important;
+}
+
+.container {
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+  padding-bottom: 30px !important;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
